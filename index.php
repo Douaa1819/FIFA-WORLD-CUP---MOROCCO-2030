@@ -12,7 +12,7 @@
     
 
         <?php
-        // Connect to the database (replace these with your actual database credentials)
+        // Connect to the database 
         $servername = "localhost";
         $username = "root";
         $password = "";
